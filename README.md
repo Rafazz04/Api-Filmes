@@ -10,7 +10,6 @@
 
 ## 🛠️ Abrir e rodar o projeto
 
-**-Abra a pasta Api-Filmes**<br>
 **-Abra a pasta ApiFilmes**<br>
 **-Abra a solução do projeto ApiFilmes.sln**<br>
 **-Com o projeto aberto execute o comando dotnet run**<br>
